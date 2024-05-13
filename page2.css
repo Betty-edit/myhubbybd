@@ -1,0 +1,85 @@
+/*font */
+@font-face {
+	font-family: amharic bold;
+	src: url(MulatAbay-Bold.ttf);
+}
+@font-face {
+	font-family: amharic;
+	src: url(MulatAbay-Regular.ttf);
+}
+@font-face {
+	font-family: Nokia bold;
+	src: url(Nokia Pureheadline Bold.ttf);
+}
+@font-face {
+	font-family: Nokia;
+	src: url(Nokia Pureheadline Light.ttf);
+}
+@import url('https://fonts.googleapis.co/css2?family=Baloo+2:wght@400..800&display=swap')
+
+* {
+	box-sizing: content-box;
+	}
+#body{
+     background-color: #333333;
+}
+h1 {
+	font-family: 'amharic bold', sans-serif;
+	color: #ffd23f;	
+	font-size: 4em;
+	text-align: center;
+	text-decoration: underline;
+	margin-top:0.2em;
+}
+.center{
+	width: 50%;
+	margin: auto;
+}
+ol {
+	font-size: 1.6em;
+font-family: 'Nokia bold', sans-serif;
+color: #f5f2f5;
+margin-top: -1rem;
+
+}
+.col{
+	margin-left: -4em;
+	padding-right: -7em;
+}
+.btn1{
+	background-color: #f6ae2d;
+	font-size: 1.6em;
+		border-radius: 20px;
+	    padding:10px 20px;
+
+
+}
+
+a{
+			font-family: 'Nokia bold', sans-serif;
+
+	color: #333333 ;
+	text-align:center;
+	text-decoration: none;
+	border: none;
+	padding: 20px 20px;
+	font-weight: bold;
+}
+.btn2 {
+
+background-color: #9e1616;
+	font-size: 1.6em;
+	    padding:10px 20px;
+	    margin-top: 1em;
+	border-radius: 20px;
+}
+
+.no
+{color: #f5f2f5 ;
+	text-decoration: none;
+	border: none;
+	padding: 20px 20px;
+	font-weight: bold;
+    font-family: 'Nokia bold', sans-serif;
+
+	}

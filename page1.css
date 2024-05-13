@@ -1,0 +1,89 @@
+/*font */
+@font-face {
+	font-family: amharic bold;
+	src: url(MulatAbay-Bold.ttf);
+}
+@font-face {
+	font-family: amharic;
+	src: url(MulatAbay-Regular.ttf);
+}
+@font-face {
+	font-family: Nokia bold;
+	src: url(Nokia Pureheadline Bold.ttf);
+}
+@font-face {
+	font-family: Nokia;
+	src: url(Nokia Pureheadline Light.ttf);
+}
+@import url('https://fonts.googleapis.co/css2?family=Baloo+2:wght@400..800&display=swap')
+
+* {
+	box-sizing: content-box;
+
+	}
+	
+/*	background*/
+
+ img.bg { width:101.25%;
+height:36.2rem;
+	
+	margin-left: -0.5rem;
+	margin-bottom: -7rem;
+}
+/*welcome*/
+.welcome {
+	position: absolute;
+z-index: 1;	
+top:20%;
+left:10%;
+}
+.Welcome {
+	font-family: 'Baloo', sans-serif;
+	font-size: 3.7rem;
+	text-align:center;
+	color: #f5f2f5;
+	text-shadow: 4px 4px 5px #9e1616;
+}
+.yene{
+	font-family: 'amharic bold', sans-serif;
+	font-size: 4rem ;
+	text-align: center;
+	margin-top:-3rem ;
+	color: #f6ae2d;
+	text-shadow: 2px 2px 2.5px #ffd23f;
+
+}
+.app {
+	font-family: 'Baloo', sans-serif;
+	font-size:4rem;
+	color: #f5f2f5;
+	text-shadow: 4px 4px 5px #9e1616;
+
+}
+
+.get {
+	color: #f5f2f5;
+	text-decoration: none;
+	font-family: 'Baloo', sans-serif;
+background-color: #333333;
+
+	font-size: 2rem;
+	padding: 2%  20%;
+	font-weight: lighter;
+	/*position: absolute;
+
+	top:70%;
+	right:35%*/;
+	border-radius: 10px;
+}
+.get:hover {
+	color: #f5f2f5;
+}
+@media only screen (max-width:500px)
+{
+	/*background*/
+	img.bg {
+		width:101.25%;
+	height:45rem;
+	}
+}

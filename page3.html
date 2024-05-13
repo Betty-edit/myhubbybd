@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Game 1 Page</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- Link -->
+        <link rel="stylesheet" href="page3.css">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/fontawesome.min.css" integrity="sha512-UuQ/zJlbMVAw/UU8vVBhnI4op+/tFOpQZVT+FormmIEhRSCnJWyHiBbEVgM4Uztsht41f3FzVWgLuwzUqOObKw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+	<h1>ጨዋታ 1 </h1>
+	<img src="kiyu image.png" alt="kiyu image" id="kiyu">
+	<form action="" method="get" accept-charset="utf-8">
+		<h2>እዚህ ፎቶ ላይ ስንት ቃላቶች አሉ? </h2>
+		<img src="kiyu design-04.png" alt="star" id="star">
+		<input type="text" name="" id="answer">
+		<button type="submit"class="submit" id="submit"> <a href="" id="link" style="text-decoration: none; color: #f5f2f5;">SUBMIT</a></button>	</form>
+	<p id="no"> </p>
+	<div>
+		<button type="submit" class="hint"><img src="20424739.jpg" alt="Hint" id="img"> </button>
+		<p class="tip" id="tip"></p>
+	</div>
+	
+
+	<script>
+		
+		
+document.getElementById("submit").addEventListener('click', function(){
+	const answer=Number(document.querySelector('#answer').value);
+	console.log(answer);
+	
+	if (answer === 43) {
+		document.getElementById('link').href="page2.html";
+	}
+	else {
+
+		document.getElementById('no').textContent="❌ በትክክል አልተመለሰም፣ እንደገና ይሞክሩ!"
+	}
+})
+ document.querySelector("#img").addEventListener('click', function(){
+ 	document.getElementById("tip").innerHTML="ቁጥሩ ከ20-50 ድረስ ነው::"
+ })
+
+
+		
+	</script>
+</body>
+</html>

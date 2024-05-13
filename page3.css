@@ -1,0 +1,119 @@
+/*font */
+@font-face {
+	font-family: amharic bold;
+	src: url(MulatAbay-Bold.ttf);
+}
+@font-face {
+	font-family: amharic;
+	src: url(MulatAbay-Regular.ttf);
+}
+@font-face {
+	font-family: Nokia bold;
+	src: url(Nokia Pureheadline Bold.ttf);
+}
+@font-face {
+	font-family: Nokia;
+	src: url(Nokia Pureheadline Light.ttf);
+}
+@import url
+ ('https://fonts.googleapis.co/css2?family=Baloo+2:wght@400..800&display=swap')
+
+* {
+	box-sizing: content-box;
+	}
+
+	body{
+		background-color: #333333;
+	}
+
+h1 {
+	font-family: 'amharic bold', sans-serif;
+	color: #ffd23f;	
+	font-size: 3em;
+	text-align: center;
+	text-decoration: underline;
+	margin-top: -0.5em;
+}
+
+h2{
+	font-size: 1.5em;
+font-family: 'Nokia bold', sans-serif;
+text-align: center;
+color: #f5f2f5;
+		
+}
+
+#kiyu {
+	width:100vw;
+	height:40dvh;
+	border-radius: 0 0 30px 30px;
+	margin-left: -0.5em;
+}
+#star {
+	width:100vw;
+	height:60dvh;
+	top:55%;
+	right: 0.5%;
+	position: absolute;
+	z-index: -1;
+	opacity: 50%;
+}
+form {
+	text-align: center;
+}
+
+input[type=text]{
+	width:28%;
+	padding: 12px 12px;
+	border-radius: 7px;
+	border: none;
+	background-color: #f5f2f5;
+}
+
+.submit{
+padding:0.5em 1em;
+margin-left: 0.5em;
+border-radius: 20px;
+background-color: #9e1616;
+font-family: 'Baloo', sans-serif;
+color: #f5f2f5;
+border: none;
+}
+
+p#no{
+	text-align: center;
+	font-family: 'Nokia bold', sans-serif;
+	font-weight: light;
+	font-size: 0.95rem;
+	color: #f5f2f5;
+	margin-right: 4.7rem;
+	visibility:
+
+}
+
+p.tip{
+	color: #f5f2f5;
+	font-family: 'amharic bold', sans-serif;
+	margin: 15px 0;
+	visibility: hidden;
+}
+div {
+	text-align: center;
+}
+
+.hint{
+
+	background-color: transparent;
+	border: none;
+
+}
+
+
+#img {
+
+	width:6dvh;
+	height:6dvh;
+	border-radius: 40px;
+	margin-top: 3rem;
+
+}

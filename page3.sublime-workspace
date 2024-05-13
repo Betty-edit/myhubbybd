@@ -1,0 +1,919 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"u",
+				"underline"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"htm",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"text-de",
+				"text-decoration-line"
+			],
+			[
+				"scr",
+				"script1"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"S",
+				"sans-serif"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"bg",
+				"bg-transparent"
+			],
+			[
+				"teex",
+				"text-white"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"roun",
+				"rounded-pill"
+			],
+			[
+				"im",
+				"img-fluid"
+			],
+			[
+				"round",
+				"rounded-pill"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"team",
+				"team2"
+			],
+			[
+				"sc",
+				"scored"
+			],
+			[
+				"pl",
+				"players1Final"
+			],
+			[
+				"pla",
+				"players1"
+			],
+			[
+				"playe",
+				"players1"
+			],
+			[
+				"teama",
+				"team1arr"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"curr",
+				"current--0"
+			],
+			[
+				"cu",
+				"currentScore0"
+			],
+			[
+				"btn",
+				"btnRoll"
+			],
+			[
+				"player",
+				"player1El"
+			],
+			[
+				"pr",
+				"printForecast"
+			],
+			[
+				"a",
+				"array2"
+			],
+			[
+				"arra",
+				"array2"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"av",
+				"avgdolphins"
+			],
+			[
+				"avg",
+				"avgdolphins"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"ko",
+				"koalasScoreAverage"
+			],
+			[
+				"do",
+				"dolphinScoreAverage"
+			],
+			[
+				"koa",
+				"koalasScoreOne"
+			],
+			[
+				"dol",
+				"dolphinsScoreTwo"
+			],
+			[
+				"Joh",
+				"John's"
+			],
+			[
+				"jo",
+				"johnBMI"
+			],
+			[
+				"john",
+				"johnMassinkg"
+			],
+			[
+				"text",
+				"text-secondary"
+			],
+			[
+				"ali",
+				"align-items-center"
+			],
+			[
+				"text-",
+				"text-primary"
+			],
+			[
+				"n",
+				"expanded"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"j",
+				"justify-content-center"
+			],
+			[
+				"ju",
+				"justify-content-center"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"carouselE",
+				"carouselExampleSlidesOnly"
+			],
+			[
+				"data-bs-",
+				"data-bs-slide"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"line",
+				"linear-gradient()"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"testimo",
+				"testimonials-1"
+			],
+			[
+				"aria-",
+				"aria-controls"
+			],
+			[
+				"ar",
+				"aria-expanded"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"list-grou",
+				"list-group-item"
+			],
+			[
+				"row",
+				"row-cols-1"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"nav",
+				"navbar-toggler"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"--ve",
+				"--veryblueline"
+			],
+			[
+				"l",
+				"initial"
+			],
+			[
+				"--v",
+				"--verybluecard"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"--",
+				"--verybluemain"
+			],
+			[
+				"-",
+				"--very-dark-blue-main"
+			],
+			[
+				"--p",
+				"--purple-1"
+			],
+			[
+				"mi",
+				"minlength"
+			],
+			[
+				"col-",
+				"col-md-6"
+			],
+			[
+				"ca",
+				"card-body"
+			],
+			[
+				"padding-b",
+				"padding-bottom"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"st",
+				"style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Discover Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"add a re",
+				"Package Control: Add Repository"
+			],
+			[
+				"preferences: lsp",
+				"Preferences: LSP-Dart Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"z",
+				"UI: Customize Theme"
+			],
+			[
+				"to",
+				"View: Toggle Menu"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"git:cu",
+				"Git: Custom Command"
+			],
+			[
+				"help",
+				"Git: Help"
+			],
+			[
+				"git:h",
+				"Git: Help"
+			],
+			[
+				"git:c",
+				"Git: Commit"
+			],
+			[
+				"git:a",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git:",
+				"Git: Push"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 60.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/05-Guess-My-Number/final/index.html",
+		"/C/Users/User/Downloads/kiyu new project/page1.html",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/05-Guess-My-Number/final/script.js",
+		"/C/Users/User/Downloads/kiyu new project/page3.css",
+		"/C/Users/User/Downloads/kiyu new project/page2.css",
+		"/C/Users/User/Downloads/kiyu new project/page1.css",
+		"/C/Users/User/Downloads/kiyu new project/page3.html",
+		"/C/Users/User/Downloads/kiyu new project/README.md",
+		"/C/Users/User/Downloads/Telegram Desktop/17 - Boss Level Challenge 1 - The Dicee Game/002 Dicee-Challenge-Starting-Files/Dicee Challenge - Starting Files/dicee.html",
+		"/C/Users/User/Downloads/kiyu new project/page3.js",
+		"/C/Users/User/Downloads/kiyu new project/page4.html",
+		"/C/Users/User/Downloads/kiyu new project/page2.html",
+		"/C/Users/User/Downloads/My hubby 25bd gift/page1.html",
+		"/C/Users/User/Downloads/My hubby 25bd gift/main2 new.html",
+		"/C/Users/User/Downloads/My hubby 25bd gift/main new.html",
+		"/C/Users/User/Downloads/My hubby 25bd gift/main3 new.html",
+		"/C/Users/User/Downloads/My Hubby Birthday Gift/Gulpfile.js",
+		"/C/Users/User/Downloads/My Hubby Birthday Gift/package.json",
+		"/C/Users/User/Downloads/My Hubby Birthday Gift/main2 new.html",
+		"/C/Users/User/Downloads/figma-to-html/main.html",
+		"/C/Users/User/Downloads/My Hubby Birthday Gift/hbd.svg",
+		"/C/Users/User/Downloads/figma-to-html/main new.html",
+		"/C/Users/User/Downloads/figma-to-html/main2 new.html",
+		"/C/Users/User/Downloads/figma-to-html/main3 new.html",
+		"/C/Users/User/Downloads/figma-to-html/main2.html",
+		"/C/Users/User/Downloads/figma-to-html/main3.html",
+		"/C/Users/User/Downloads/figma-to-html/script.js",
+		"/C/Users/User/Downloads/figma-to-html/index.html",
+		"/C/Users/User/Downloads/figma-to-html/script1.js",
+		"/C/Users/User/Downloads/🦆 icon _Exclamation Circle_.svg",
+		"/C/Users/User/Downloads/🦆 icon _arrow right circle_.svg",
+		"/C/Users/User/Downloads/hbd.svg",
+		"/C/Users/User/Downloads/diamond.svg",
+		"/C/Users/User/Downloads/Clip path group.svg",
+		"/C/Users/User/Downloads/kiyu project/script.js",
+		"/C/Users/User/Downloads/kiyu project/style.css",
+		"/C/Users/User/Downloads/kiyu project/index.html",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/10-Functions/starter/index.html",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/10-Functions/starter/script.js",
+		"/C/Users/User/Downloads/huddle-landing-page-with-alternating-feature-blocks-master/huddle-landing-page-with-alternating-feature-blocks-master/style.css",
+		"/C/Users/User/Downloads/huddle-landing-page-with-alternating-feature-blocks-master/huddle-landing-page-with-alternating-feature-blocks-master/index.html",
+		"/C/Users/User/Downloads/huddle-landing-page-with-alternating-feature-blocks-master/huddle-landing-page-with-alternating-feature-blocks-master/design/desktop-design.jpg",
+		"/C/Users/User/Downloads/huddle-landing-page-with-alternating-feature-blocks-master/huddle-landing-page-with-alternating-feature-blocks-master/design/desktop-preview.jpg",
+		"/C/Users/User/Downloads/huddle-landing-page-with-alternating-feature-blocks-master/huddle-landing-page-with-alternating-feature-blocks-master/style-guide.md",
+		"/C/Users/User/Downloads/huddle-landing-page-with-alternating-feature-blocks-master/huddle-landing-page-with-alternating-feature-blocks-master/README-template.md",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/colorcoder.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/User/Downloads/bootstrap-offline-docs-5.1/bootstrap-offline-docs-5.1/ReadMe.md",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/09-Data-Structures-Operators/starter/index.html",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/09-Data-Structures-Operators/starter/script.js",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/09-Data-Structures-Operators/final/script.js",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/dart.sublime-build",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/flutter.sublime-build",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/07-Pig-Game/starter/pig-game-flowchart.png",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/07-Pig-Game/starter/style.css",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/07-Pig-Game/starter/script.js",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/07-Pig-Game/starter/index.html",
+		"/C/Users/User/Downloads/flutter_windows_3.16.4-stable/flutter/README.md",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/06-Modal/starter/style.css",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/06-Modal/starter/script.js",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/06-Modal/starter/index.html",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/06-Modal/final/script.js",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/05-Guess-My-Number/starter/index.html",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/05-Guess-My-Number/starter/style.css",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/05-Guess-My-Number/starter/script.js",
+		"/C/Users/User/Downloads/congratulations-7600.gif",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/03-Developer-Skills/starter/script.js",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/02-Fundamentals-Part-2/starter/script.js",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/Terminus/Default.sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/Highlighter/highlighter.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/HighlightWords/HighlightWords.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/betty.sublime-snippet",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/JsPrettier/CHANGELOG.md",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/JsPrettier/messages/install.txt",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/JsPrettier.sublime-settings",
+		"/D/_/ /Til_Death_Do_Us_Part_2023_720p_WEBRip_800MB_x264_@Netflix_Seriesbots.mkv",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/01-Fundamentals-Part-1/starter/index.html",
+		"/C/Users/User/Downloads/complete-javascript-course-master/complete-javascript-course-master/01-Fundamentals-Part-1/starter/script.js",
+		"/C/Users/User/Desktop/project 4/code/contact.html",
+		"/C/Users/User/Desktop/project 4/code/pricing.html",
+		"/C/Users/User/Desktop/project 4/code/services.html",
+		"/C/Users/User/Desktop/project 4/code/about.html",
+		"/C/Users/User/Desktop/project 4/code/style.css",
+		"/C/Users/User/Desktop/project 4/code/home.html",
+		"/C/Users/User/Downloads/Telegram Desktop/faq-accordion.7z",
+		"/C/Users/User/Desktop/bootstrap 5 README.html",
+		"/C/Users/User/Desktop/project 4/code/index.html",
+		"/C/Users/User/Desktop/project 4/style.css",
+		"/C/Users/User/Desktop/project 4/index.html",
+		"/C/Users/User/Downloads/Telegram Desktop/single-price-grid-component-master/Project 3- Betelhem Gezahegn/style.css",
+		"/C/Users/User/Downloads/Telegram Desktop/single-price-grid-component-master/Project 3- Betelhem Gezahegn/index.html",
+		"/C/Users/User/Downloads/Telegram Desktop/single-price-grid-component-master/Project 3- Betelhem Gezahegn/new.html",
+		"/C/Users/User/Desktop/hello.sh",
+		"/C/Users/User/Desktop/hello/hello.sh",
+		"/C/Users/User/AppData/Local/SquirrelTemp/SquirrelSetup.log",
+		"/C/Users/User/Downloads/nft-preview-card-component-main/nft-preview-card-component-main/style.css",
+		"/C/Users/User/Downloads/nft-preview-card-component-main/nft-preview-card-component-main/design/desktop-design.jpg",
+		"/C/Users/User/Downloads/nft-preview-card-component-main/nft-preview-card-component-main/images/favicon-32x32.png",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/Git/Git.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/Users/User/Documents/1odin's projects/html/odin-reciepe/recipe/README.md",
+		"/C/Users/User/Documents/1odin's projects/html/odin-reciepe/recipe/chicken.html",
+		"/C/Users/User/Documents/1odin's projects/html/odin-reciepe/recipe/hamburger.html",
+		"/C/Users/User/Documents/1odin's projects/html/odin-reciepe/recipe/index.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/HTMLBeautify.sublime-settings",
+		"/C/Users/User/Documents/1odin's projects/html/odin-reciepe/recipe/bety.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/index.html",
+		"/C/Users/User/Downloads/product-preview-card-component-main/product-preview-card-component-main/style-guide.md",
+		"/C/Users/User/Downloads/product-preview-card-component-main/product-preview-card-component-main/README-template.md",
+		"/C/Users/User/Downloads/product-preview-card-component-main/product-preview-card-component-main/README.md",
+		"/C/Users/User/Downloads/qr-code-component-main/qr-code-component-main/style-guide.md",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/avast.sublime-build",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/Chrome.sublime-build",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/styles.css",
+		"/C/Users/User/Downloads/qr-code-component-main/qr-code-component-main/README-template.md",
+		"/C/Users/User/AppData/Roaming/Sublime Text/Packages/User/openinbrowser.sublime-settings",
+		"/F/html folders/html1.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "page3.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
